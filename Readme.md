@@ -7,7 +7,7 @@ This is a simple command-line tool written in Go that verifies email domains for
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/ritankarsaha/email-verifier.git
+    git clone https://github.com/ritankarsaha/Email-Verifier.git
     ```
 
 2. Build the executable:
